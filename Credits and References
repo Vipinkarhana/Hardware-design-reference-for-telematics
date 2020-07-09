@@ -1,0 +1,34 @@
+# The credits and References for the project goes as:
+
+Quectel 
+MC60 Module with GSM GPRS
+https://www.quectel.com/product/mc60.htm 
+
+TI instruments
+BQ24195 series
+https://www.ti.com/lit/ds/slusb97a/slusb97a.pdf?ts=1594299814607&ref_url=https%253A%252F%252Fwww.google.com%252F
+
+ST Microelectronics
+For tools and softwares 
+Refer datasheets and pin diagram of microcontorllers
+https://www.st.com/content/st_com/en.html
+
+InvenSence 
+IMU9250 6 degree of freedom.
+https://invensense.tdk.com/wp-content/uploads/2015/02/PS-MPU-9250A-01-v1.1.pdf
+
+Winbond EEPROM
+W25Q16BVSSIG 
+https://www.alldatasheet.com/datasheet-pdf/pdf/443790/WINBOND/W25Q16BVSSIG.html
+
+Power Supply
+TI Instruments
+LM2596 
+but I recommanded some compact ic's are also there. Although it works great as well.
+https://www.ti.com/lit/ds/symlink/lm2596.pdf?ts=1594300408585&ref_url=https%253A%252F%252Fwww.google.com%252F
+
+While, Putting every minute details would not be possible right now. But will surely update.
+There are lot of forums, tutorials and links which I don't think would be possible to cover here.
+
+For any Queries
+Also can mail at: rcubegreentechnology@gmail.com 
