@@ -1,5 +1,5 @@
-# Hardware-design-reference-for-telematics-devices
-Reference for rapid development of DIY schematics with MC60 and stm32f103 with important points to consider. The purpose of this repository is to share my learning under non-commercial and no derivative purpose to help build strong open source community and giving back to society. The below information is for reference purpose only. I am not liable for the authenticity and accuracy of the details provided here within. Please refer to the datasheets of individual modules/libraries. Below information is important points to consider while designing any schematics and board files.
+# Hardware-reference-design-for-telematics-devices
+Reference circuit design for telematics devices. The repository contains schematic and white notes. Main modules and controller as MC60(GSM+GPS) and stm32f103 with important points to consider. The purpose of this repository is to share my learning under non-commercial and no derivative purpose to help build strong open source community and giving back to society. The below information is for reference purpose only. I am not liable for the authenticity and accuracy of the details provided here within. Please refer to the datasheets of individual modules/libraries. Below information is important points to consider while designing any schematics and board files.
 
 # Library Descriptions 
 Below library files can be easly found via key search.
